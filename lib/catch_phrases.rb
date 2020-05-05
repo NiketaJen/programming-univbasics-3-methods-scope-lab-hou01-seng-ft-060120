@@ -14,5 +14,5 @@ def link
 end
 
 def all_phrases (mario, toadstool, link)
-puts "#{phrase}, #{$status}, #{phrase}"
+puts "mario #{phrase}, toadstool #{$status}, link #{phrase}"
 end
