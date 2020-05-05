@@ -13,6 +13,6 @@ def link
   puts "#{phrase}"
 end
 
-def all_phrases (mario, toadstool, link)
-puts "mario #{phrase}, toadstool #{$status}, link #{phrase}"
+def all_phrases
+puts "mario, toadstool, link"
 end
